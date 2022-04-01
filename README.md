@@ -1,3 +1,3 @@
 # Snake Game
-##Made using HTML, CSS & JavaScript 
+Made using HTML, CSS & JavaScript 
 
